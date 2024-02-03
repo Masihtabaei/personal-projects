@@ -34,8 +34,6 @@ Here you can find a list of some projects that I made a contribution to in the p
 - "Corneal Imaging"- Research Project @[Mixedreailtylab](https://www.mixedrealitylab.de/)
     - I made a small contribution to this project by analysing the studies.
 
-<hr>
-
 ## Embedded Systems-Project
 
 - Co-Operative Scheduler for Embedded Systems
