@@ -50,3 +50,7 @@ Here you can find a list of some projects that I made a contribution to in the p
         I used this interpreter as a command-based application (which could serve as a calculator) for a Nucleo-Board.
         In [this repository](https://github.com/Masihtabaei/cobin-minimal-interpreter-in-c) you will find more information about
         this project.
+- Dynamic Turn Indicator and Chaser
+    - This project was basically the first concrete project that I carried out in the field of the embedded systems.
+      The main purpose of this project was to learn the armasm (Arm Assembly) and the fundamentals of embedded systems.
+      In [this repository](https://github.com/Masihtabaei/dynamic-turn-indicator-and-chaser) you will find more information about this project.
