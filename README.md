@@ -6,7 +6,7 @@ Here you can find a list of some projects that I made a contribution to in the p
 
 - "Bakery"-project @[Mixedreailtylab](https://www.mixedrealitylab.de/)
     - This project was carried out in 2023 by a research associate of [Mixedreailtylab](https://www.mixedrealitylab.de/) and me
-        to simulate stress situations in the bakery dor trainees.
+        to simulate stress situations in the bakery for trainees.
         You can find [here](http://web.archive.org/web/20231209172926/https://www.hwk-oberfranken.de/artikel/vr-backshop-bereichert-kuenftig-ausbildung-fuer-den-baeckereifachverkauf-72,0,3161.html) more information (in German language) about this project.  
         We used following technologies in this projects:
         - ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
@@ -50,6 +50,11 @@ Here you can find a list of some projects that I made a contribution to in the p
         I used this interpreter as a command-based application (which could serve as a calculator) for a Nucleo-Board.
         In [this repository](https://github.com/Masihtabaei/cobin-minimal-interpreter-in-c) you will find more information about
         this project.
+- Command Based Calculator
+    - This project was implemented over two semesters.
+- Stopwatch
+    - This project was the second project that I carried out in the field of the embedded systems.
+      The main purpose of this project was to learn the armasm (Arm Assembly) and the fundamentals of embedded systems.
 - Dynamic Turn Indicator and Chaser
     - This project was basically the first concrete project that I carried out in the field of the embedded systems.
       The main purpose of this project was to learn the armasm (Arm Assembly) and the fundamentals of embedded systems.
