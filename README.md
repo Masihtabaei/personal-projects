@@ -30,7 +30,7 @@ Here you can find a list of some projects that I made a contribution to in the p
 
 - "Mixedreality for Mobile Work"-Research Project @[Mixedreailtylab](https://www.mixedrealitylab.de/)
     - I took part as a student assistant for data analysis in this project to evaluate studies (by annoating the videos).
-        The outcome of this project was a publication. [Here](https://arxiv.org/abs/2401.14920v2) you can find more information about it.
+        The outcome of this project was a publication. [Here](https://arxiv.org/abs/2401.14920v2) you can find the paper and [here](https://www.mixedrealitylab.de/longterm-de.html) you can find more information about the project.
 - "Corneal Imaging"- Research Project @[Mixedreailtylab](https://www.mixedrealitylab.de/)
     - I made a small contribution to this project by analysing the studies.
 
